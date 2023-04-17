@@ -1,0 +1,8 @@
+C:\Users\ferid\source\repos\Test1234\Test1234\bin\Debug\Test1234.exe.config
+C:\Users\ferid\source\repos\Test1234\Test1234\bin\Debug\Test1234.exe
+C:\Users\ferid\source\repos\Test1234\Test1234\bin\Debug\Test1234.pdb
+C:\Users\ferid\source\repos\Test1234\Test1234\obj\Debug\Test1234.csproj.AssemblyReference.cache
+C:\Users\ferid\source\repos\Test1234\Test1234\obj\Debug\Test1234.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferid\source\repos\Test1234\Test1234\obj\Debug\Test1234.csproj.CoreCompileInputs.cache
+C:\Users\ferid\source\repos\Test1234\Test1234\obj\Debug\Test1234.exe
+C:\Users\ferid\source\repos\Test1234\Test1234\obj\Debug\Test1234.pdb
